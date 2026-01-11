@@ -15,7 +15,7 @@
 | **UrbanPoint Database System** | Full database design and implementation for a subscription and offer-redemption platform. Includes UML, BCNF normalization, triggers, and analytical SQL queries. | PostgreSQL, SQL, Python | [Repo](https://github.com/iibrohim-hash/urbanpoint) |
 | ![](ubanpoint.png) | | | |
 | **Supply Chain Transparency Blockchain** | Blockchain-based system for secure, immutable tracking of supply chain transactions using smart contracts. | Solidity, Blockchain | [Repo](https://github.com/iibrohim-hash/Blockchain) |
-| ![](blockchain.png) | | | |
+| ![](b.png) | | | |
 
 ---
 

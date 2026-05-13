@@ -10,6 +10,8 @@ I am an Information Systems student at Carnegie Mellon University. My primary fo
 
 <table> <tr> <td width="300"><img src="images/b.png" width="300" /></td> <td> <h3>Supply Chain Transparency Blockchain</h3> <p>Implemented a blockchain-based system for secure, immutable tracking of supply chain transactions using smart contracts to ensure data integrity.</p> <p><b>Tech Stack:</b> Solidity, Blockchain</p> <a href="https://github.com/iibrohim-hash/Blockchain">View Repository</a> </td> </tr> </table>
 
+<table><tr><td width="300"><img src="images/br163.png" width="300" /></td><td><h3>Deforestation Risk Prediction along Brazil's BR-163 Corridor</h3><p>Built a geospatial ML pipeline to predict deforestation risk across 342,819 grid cells in the Brazilian Amazon, combining five open data sources. Final XGBoost model achieves AUC-ROC 0.990 and Recall 0.947.</p><p><b>Tech Stack:</b> Python, XGBoost, scikit-learn, geopandas, pandas</p> <a href="https://github.com/iibrohim-hash/br-163">View Repository</a></td></tr></table>
+
 ---
 
 ##  Contact

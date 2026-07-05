@@ -1,5 +1,6 @@
 #  Hi, I'm Iroda Ibrohimova
-I am an Information Systems student at Carnegie Mellon University. My primary focus is Data Science and Machine Learning, though I enjoy exploring diverse technologies including blockchain and database architecture. Below is a selection of my recent work.
+I'm an Information Systems student at Carnegie Mellon University, concentrating in Data Science and Privacy & Security, with an AI for Finance certificate. My work centers on machine learning and computer vision, from building synthetic data pipelines for wildlife counting to real-time 3D object detection, and I enjoy branching out into blockchain and database systems along the way. I've contributed to published research at ICMV and HARP, and I'm always looking for opportunities to turn messy real-world data into models that actually work. Below is a selection of my recent projects and publications.
+
 
 [Resume](https://drive.google.com/drive/folders/17WNZ8A5VSbcETcqyz7ffW3ZRzXK3sYgs?dmr=1&ec=wgc-drive-hero-goto) | [LinkedIn](https://www.linkedin.com/in/iroda-ibrohimova-73098924a)
 ---------
@@ -19,15 +20,17 @@ I am an Information Systems student at Carnegie Mellon University. My primary fo
 ## Publications
 
 **Generating Synthetic Datasets to Train Deep Models for Counting in Large-Group Animal Imagery**
-*ICMV 2025 (Paris) — Best Oral Presentation, MotM: 1st Place in Extensive Research*
+*ICMV 2025 (Paris)| Best Oral Presentation, MotM: 1st Place in Extensive Research*
 Advised by Gianni Di Caro, CMU Professor in Computer Science & AI departments
 Designed an end-to-end synthetic data generation pipeline (Python + Blender) producing 50,000+ annotated training images using the Boids flocking algorithm, and trained YOLO/CSRNet models achieving a 90% improvement in counting accuracy over benchmark models.
+
 [View Publication](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/14114/3096374/Generating-synthetic-datasets-to-train-deep-models-for-counting-in/10.1117/12.3096374.full)
 
 **Community Detection in Dynamic Face-to-Face Interaction Networks**
 *HARP Journal, 2023*
 Advised by Dr. Maria Konte, Georgia Institute of Technology
 Applied a tailored Louvain community-detection algorithm to temporal face-to-face interaction networks, optimizing the resolution parameter (γ) for fine-grained community structures, with a full Python pipeline using NetworkX and Matplotlib.
+
 [View Publication](https://projects.horizoninspires.com/index.php/harp/preprint/view/121)
 
 ---

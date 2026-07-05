@@ -15,7 +15,7 @@ I'm an Information Systems student at Carnegie Mellon University, concentrating 
 <table> <tr> <td width="300"><img src="images/ubanpoint.png" width="300" /></td> <td> <h3>UrbanPoint Database System</h3> <p>Developed a full database design and implementation for a subscription and offer-redemption platform. Includes UML modeling, BCNF normalization, and analytical SQL queries.</p> <p><b>Tech Stack:</b> PostgreSQL, SQL, Python</p> <a href="https://github.com/iibrohim-hash/urbanpoint">View Repository</a> </td> </tr> </table>
 
 <table> <tr> <td width="300"><img src="images/b.png" width="300" /></td> <td> <h3>Supply Chain Transparency Blockchain</h3> <p>Implemented a blockchain-based system for secure, immutable tracking of supply chain transactions using smart contracts to ensure data integrity.</p> <p><b>Tech Stack:</b> Solidity, Blockchain</p> <a href="https://github.com/iibrohim-hash/Blockchain">View Repository</a> </td> </tr> </table>
----
+
 
 ## Publications
 
